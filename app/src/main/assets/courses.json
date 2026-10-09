@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      {
+        "id": 1001,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 1002,
+        "title": "Installing Python",
+        "completed": true
+      },
+      {
+        "id": 1003,
+        "title": "Variables & Data Types",
+        "completed": true
+      },
+      {
+        "id": 1004,
+        "title": "Operators",
+        "completed": true
+      },
+      {
+        "id": 1005,
+        "title": "Strings",
+        "completed": true
+      },
+      {
+        "id": 1006,
+        "title": "Lists & Tuples",
+        "completed": true
+      },
+      {
+        "id": 1007,
+        "title": "Dictionaries & Sets",
+        "completed": true
+      },
+      {
+        "id": 1008,
+        "title": "Control Flow",
+        "completed": true
+      },
+      {
+        "id": 1009,
+        "title": "Loops",
+        "completed": true
+      },
+      {
+        "id": 1010,
+        "title": "Functions",
+        "completed": true
+      },
+      {
+        "id": 1011,
+        "title": "Modules & Packages",
+        "completed": true
+      },
+      {
+        "id": 1012,
+        "title": "File Handling",
+        "completed": true
+      },
+      {
+        "id": 1013,
+        "title": "Error Handling",
+        "completed": true
+      },
+      {
+        "id": 1014,
+        "title": "OOP",
+        "completed": false
+      },
+      {
+        "id": 1015,
+        "title": "Inheritance & Polymorphism",
+        "completed": false
+      },
+      {
+        "id": 1016,
+        "title": "Iterators & Generators",
+        "completed": false
+      },
+      {
+        "id": 1017,
+        "title": "Decorators",
+        "completed": false
+      },
+      {
+        "id": 1018,
+        "title": "Virtual Environments",
+        "completed": false
+      },
+      {
+        "id": 1019,
+        "title": "Testing with pytest",
+        "completed": false
+      },
+      {
+        "id": 1020,
+        "title": "Final Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      {
+        "id": 2001,
+        "title": "Introduction to Generative AI",
+        "completed": true
+      },
+      {
+        "id": 2002,
+        "title": "History of Neural Networks",
+        "completed": true
+      },
+      {
+        "id": 2003,
+        "title": "Transformers Explained",
+        "completed": true
+      },
+      {
+        "id": 2004,
+        "title": "Tokens & Embeddings",
+        "completed": true
+      },
+      {
+        "id": 2005,
+        "title": "Large Language Models",
+        "completed": true
+      },
+      {
+        "id": 2006,
+        "title": "Prompt Engineering Basics",
+        "completed": true
+      },
+      {
+        "id": 2007,
+        "title": "Advanced Prompting",
+        "completed": false
+      },
+      {
+        "id": 2008,
+        "title": "Retrieval-Augmented Generation",
+        "completed": false
+      },
+      {
+        "id": 2009,
+        "title": "Vector Databases",
+        "completed": false
+      },
+      {
+        "id": 2010,
+        "title": "Fine-Tuning Models",
+        "completed": false
+      },
+      {
+        "id": 2011,
+        "title": "Image Generation & Diffusion",
+        "completed": false
+      },
+      {
+        "id": 2012,
+        "title": "AI Agents",
+        "completed": false
+      },
+      {
+        "id": 2013,
+        "title": "Evaluation & Benchmarks",
+        "completed": false
+      },
+      {
+        "id": 2014,
+        "title": "Responsible AI & Safety",
+        "completed": false
+      },
+      {
+        "id": 2015,
+        "title": "Deploying GenAI Apps",
+        "completed": false
+      },
+      {
+        "id": 2016,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      {
+        "id": 3001,
+        "title": "How the Web Works",
+        "completed": true
+      },
+      {
+        "id": 3002,
+        "title": "HTML Fundamentals",
+        "completed": true
+      },
+      {
+        "id": 3003,
+        "title": "CSS Fundamentals",
+        "completed": true
+      },
+      {
+        "id": 3004,
+        "title": "Responsive Design",
+        "completed": true
+      },
+      {
+        "id": 3005,
+        "title": "JavaScript Basics",
+        "completed": true
+      },
+      {
+        "id": 3006,
+        "title": "DOM Manipulation",
+        "completed": true
+      },
+      {
+        "id": 3007,
+        "title": "Git & GitHub",
+        "completed": true
+      },
+      {
+        "id": 3008,
+        "title": "Modern JavaScript (ES6+)",
+        "completed": false
+      },
+      {
+        "id": 3009,
+        "title": "Asynchronous JavaScript",
+        "completed": false
+      },
+      {
+        "id": 3010,
+        "title": "TypeScript Basics",
+        "completed": false
+      },
+      {
+        "id": 3011,
+        "title": "React Fundamentals",
+        "completed": false
+      },
+      {
+        "id": 3012,
+        "title": "React Hooks",
+        "completed": false
+      },
+      {
+        "id": 3013,
+        "title": "State Management",
+        "completed": false
+      },
+      {
+        "id": 3014,
+        "title": "Routing in SPAs",
+        "completed": false
+      },
+      {
+        "id": 3015,
+        "title": "Node.js Basics",
+        "completed": false
+      },
+      {
+        "id": 3016,
+        "title": "Express.js",
+        "completed": false
+      },
+      {
+        "id": 3017,
+        "title": "REST API Design",
+        "completed": false
+      },
+      {
+        "id": 3018,
+        "title": "Databases & SQL",
+        "completed": false
+      },
+      {
+        "id": 3019,
+        "title": "NoSQL with MongoDB",
+        "completed": false
+      },
+      {
+        "id": 3020,
+        "title": "Authentication & Authorization",
+        "completed": false
+      },
+      {
+        "id": 3021,
+        "title": "Testing Web Apps",
+        "completed": false
+      },
+      {
+        "id": 3022,
+        "title": "GraphQL",
+        "completed": false
+      },
+      {
+        "id": 3023,
+        "title": "WebSockets",
+        "completed": false
+      },
+      {
+        "id": 3024,
+        "title": "Docker Basics",
+        "completed": false
+      },
+      {
+        "id": 3025,
+        "title": "CI/CD Pipelines",
+        "completed": false
+      },
+      {
+        "id": 3026,
+        "title": "Cloud Deployment",
+        "completed": false
+      },
+      {
+        "id": 3027,
+        "title": "Performance & Security",
+        "completed": false
+      },
+      {
+        "id": 3028,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  }
+]
